@@ -82,6 +82,3 @@ page_sections:
     link_url: "#"
 
 ---
-**HERO Banner**
-
-huruf kecil
