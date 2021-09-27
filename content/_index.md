@@ -78,6 +78,7 @@ page_sections:
   block: footer-1
   content: Hello world!
   cta:
-    link_text: Hello
+    link_text: ''
 
 ---
+HELLO
