@@ -82,3 +82,4 @@ page_sections:
     link_url: "#"
 
 ---
+Kepak Sayap Kemerdekaan
