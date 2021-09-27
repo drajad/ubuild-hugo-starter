@@ -78,7 +78,7 @@ page_sections:
   block: footer-1
   content: Hello world!
   cta:
-    link_text: ''
+    link_text: Hubungi Kita
+    link_url: "#"
 
 ---
-HELLO
